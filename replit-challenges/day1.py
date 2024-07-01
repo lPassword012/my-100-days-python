@@ -1,0 +1,1 @@
+print("I'm signing up for Replit's #100daysofcoding with python challenge. I will make sure to spend some time every day coding, for a minimum of 10 minutes a day. I will use Google IDX as a code editor. I'm looking forward to finishing 100 days of coding in Python! 😎, you can follow my progress at replit.com/@Mau22svVallejos #replit100DaysOfCode")
