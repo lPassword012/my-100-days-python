@@ -7,6 +7,7 @@
   packages = [
     pkgs.python311
     pkgs.python311Packages.pip
+    pkgs.python-launcher
   ];
   # Sets environment variables in the workspace
   env = {};
